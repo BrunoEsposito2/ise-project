@@ -16,8 +16,10 @@ Each source file within this repository represents a version of the official cod
 ### Links to official implementations
 
 Each file commented on in this repository refers to the relevant official implementation of the respective framework:
-* `BaseGroupChat.py` corresponds to [Autogen BaseGroupChat.py](https://github.com/microsoft/autogen/blob/python-v0.5.6/python/packages/autogen-agentchat/src/autogen_agentchat/teams/_group_chat/_base_group_chat.py)
-* `BaseGroupChatManager.py` corresponds to [Autogen BaseGroupChatManager.py](https://github.com/microsoft/autogen/blob/python-v0.5.6/python/packages/autogen-agentchat/src/autogen_agentchat/teams/_group_chat/_base_group_chat_manager.py)
-* `UserProxyAgent.py` corresponds to [Autogen UserProxyAgent.py](https://github.com/microsoft/autogen/blob/python-v0.5.6/python/packages/autogen-agentchat/src/autogen_agentchat/agents/_user_proxy_agent.py)
-* `Workforce.py` corresponds to [CAMEL Workforce.py](https://github.com/camel-ai/camel/blob/v0.2.54/camel/societies/workforce/workforce.py)
-* 
+* `BaseGroupChat.py` -> [Autogen BaseGroupChat.py](https://github.com/microsoft/autogen/blob/python-v0.5.6/python/packages/autogen-agentchat/src/autogen_agentchat/teams/_group_chat/_base_group_chat.py)
+* `BaseGroupChatManager.py` -> [Autogen BaseGroupChatManager.py](https://github.com/microsoft/autogen/blob/python-v0.5.6/python/packages/autogen-agentchat/src/autogen_agentchat/teams/_group_chat/_base_group_chat_manager.py)
+* `UserProxyAgent.py` -> [Autogen UserProxyAgent.py](https://github.com/microsoft/autogen/blob/python-v0.5.6/python/packages/autogen-agentchat/src/autogen_agentchat/agents/_user_proxy_agent.py)
+* `Workforce.py` -> [CAMEL Workforce.py](https://github.com/camel-ai/camel/blob/v0.2.54/camel/societies/workforce/workforce.py)
+* `productsearch.agent.kts` -> [Eclipse LMOS Arc - Product Search agent Example](https://github.com/eclipse-lmos/lmos-sample-agents/blob/main/productsearch-agent/agents/productsearch.agent.kts)
+* `ProductSearch.kt` -> [Eclipse LMOS Arc - Product Search Example](https://github.com/eclipse-lmos/lmos-sample-agents/blob/main/productsearch-agent/src/main/kotlin/services/ProductSearch.kt)
+* `productsearch.function.kts` -> [Eclipse LMOS Arc - Product Search function Example](https://github.com/eclipse-lmos/lmos-sample-agents/blob/main/productsearch-agent/agents/productsearch.functions.kts)
