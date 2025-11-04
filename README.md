@@ -12,3 +12,12 @@ Each source file within this repository represents a version of the official cod
 * **CAMEL**: Analysis of the hierarchical organisational structure (`Workforce.py`).
 * **Eclipse LMOS / ARC**: Analysis of the integration between agents and functional artefacts (`productsearch.agent.kts`, `ProductSearch.kt`).
 * **CArtAgO**: A reference example of a coordination artefact (`MeetingRoomArtifact.java`).
+
+### Links to official implementations
+
+Each file commented on in this repository refers to the relevant official implementation of the respective framework:
+* `BaseGroupChat.py` corresponds to [Autogen BaseGroupChat.py](https://github.com/microsoft/autogen/blob/python-v0.5.6/python/packages/autogen-agentchat/src/autogen_agentchat/teams/_group_chat/_base_group_chat.py)
+* `BaseGroupChatManager.py` corresponds to [Autogen BaseGroupChatManager.py](https://github.com/microsoft/autogen/blob/python-v0.5.6/python/packages/autogen-agentchat/src/autogen_agentchat/teams/_group_chat/_base_group_chat_manager.py)
+* `UserProxyAgent.py` corresponds to [Autogen UserProxyAgent.py](https://github.com/microsoft/autogen/blob/python-v0.5.6/python/packages/autogen-agentchat/src/autogen_agentchat/agents/_user_proxy_agent.py)
+* `Workforce.py` corresponds to [CAMEL Workforce.py](https://github.com/camel-ai/camel/blob/v0.2.54/camel/societies/workforce/workforce.py)
+* 
