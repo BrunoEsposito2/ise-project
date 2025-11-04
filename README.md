@@ -15,7 +15,7 @@ Each source file within this repository represents a version of the official cod
 
 ### Links to official implementations
 
-Each file commented on in this repository refers to the relevant official implementation of the respective framework:
+Each file commented on in this repository refers to the official implementation of the respective framework:
 * `BaseGroupChat.py` -> [Autogen BaseGroupChat.py](https://github.com/microsoft/autogen/blob/python-v0.5.6/python/packages/autogen-agentchat/src/autogen_agentchat/teams/_group_chat/_base_group_chat.py)
 * `BaseGroupChatManager.py` -> [Autogen BaseGroupChatManager.py](https://github.com/microsoft/autogen/blob/python-v0.5.6/python/packages/autogen-agentchat/src/autogen_agentchat/teams/_group_chat/_base_group_chat_manager.py)
 * `UserProxyAgent.py` -> [Autogen UserProxyAgent.py](https://github.com/microsoft/autogen/blob/python-v0.5.6/python/packages/autogen-agentchat/src/autogen_agentchat/agents/_user_proxy_agent.py)
